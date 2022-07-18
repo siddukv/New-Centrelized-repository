@@ -3,6 +3,7 @@ Money
 Time
 Ourselves
 
+The below simple code says Hello World
 #include <stdio.h>
 int main() {
    // printf() displays the string inside quotation
